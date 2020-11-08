@@ -23,6 +23,10 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: Create Zip File
-        uses: montudor/action-zip@v0.1.0
+      - uses: montudor/action-zip@v0.1.0
+        with:
+          args: zip -qq -r RPG-Textura-${GITHUB_REF##*/}.zip RPG-Textura-${GITHUB_REF##*/}
+      - uses: actions/upload-artifact@v2
+        with:
+          name: RPG-Textura-${GITHUB_REF##*/}.zip
 
