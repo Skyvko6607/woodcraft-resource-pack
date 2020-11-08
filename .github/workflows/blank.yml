@@ -24,6 +24,7 @@ jobs:
       - uses: papeloto/action-zip@v1
         with:
           files: assets pack.mcmeta pack.png
+          recursive: false
           dest: result.zip
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
