@@ -25,8 +25,8 @@ jobs:
       # Runs a single command using the runners shell
       - uses: montudor/action-zip@v0.1.0
         with:
-          args: zip -qq -r RPG-Textura.zip RPG-Textura
+          args: zip -qq -r RPGTextura.zip vendor
       - uses: actions/upload-artifact@v2
         with:
-          name: RPG-Textura.zip
+          name: RPGTextura.zip
 
