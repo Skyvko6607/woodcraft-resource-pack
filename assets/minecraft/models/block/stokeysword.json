@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/stone",
-		"3": "blocks/planks_oak",
-		"4": "blocks/stone_andesite",
-		"5": "blocks/bone_block_side",
-		"6": "blocks/anvil_base",
-		"particle": "blocks/emerald_block"
+		"1": "block/stone",
+		"3": "block/planks_oak",
+		"4": "block/stone_andesite",
+		"5": "block/bone_block_side",
+		"6": "block/anvil_base",
+		"particle": "block/emerald_block"
 	},
 	"elements": [
 		{

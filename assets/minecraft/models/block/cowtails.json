@@ -1,7 +1,7 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/wool_colored_brown",
+        "particle": "block/wool_colored_brown",
 		"cross": "wood/cowtails"
     },
     "elements": [

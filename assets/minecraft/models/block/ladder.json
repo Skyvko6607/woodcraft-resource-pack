@@ -1,8 +1,8 @@
 {
 "textures": {
-    "particle": "blocks/planks_oak",
-    "texture": "blocks/ladder",
-    "stone": "blocks/stone"
+    "particle": "block/planks_oak",
+    "texture": "block/ladder",
+    "stone": "block/stone"
 },
 "elements": [ 
 {

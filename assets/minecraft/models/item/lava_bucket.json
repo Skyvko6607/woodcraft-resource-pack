@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by Glitcherdotbe with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-    "anvil_base": "blocks/anvil_base",
-    "stone": "blocks/stone",
-    "lava_still": "blocks/lava_still"
+    "anvil_base": "block/anvil_base",
+    "stone": "block/stone",
+    "lava_still": "block/lava_still"
 },
 "elements": [ 
 {

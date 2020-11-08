@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"voxels_atlas": "blocks/key_textura"
+		"voxels_atlas": "block/key_textura"
 	},
 	"elements": [
 		{

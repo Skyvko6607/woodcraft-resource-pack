@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "blocks/prismarine_rough",
-        "1": "blocks/ice_packed",
-        "2": "blocks/ice"
+        "0": "block/prismarine_rough",
+        "1": "block/ice_packed",
+        "2": "block/ice"
     },
     "elements": [
         {

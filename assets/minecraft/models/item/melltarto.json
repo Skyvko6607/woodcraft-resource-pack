@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/cocus",
-		"1": "blocks/szurke",
-		"particle": "blocks/cocus"
+		"0": "block/cocus",
+		"1": "block/szurke",
+		"particle": "block/cocus"
 	},
 	"elements": [
 		{

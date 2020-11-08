@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/planks_spruce",
-		"3": "blocks/anvil_base"
+		"0": "block/planks_spruce",
+		"3": "block/anvil_base"
 	},
 	"elements": [
 		{

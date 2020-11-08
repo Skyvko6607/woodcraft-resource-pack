@@ -3,7 +3,7 @@
 "textures": {
     "texture": "mob/darkmetal",
     "redskin": "mob/redskin",
-    "white": "blocks/bone_block_side",
+    "white": "block/bone_block_side",
     "32gold": "mob/32gold",
 	"yellowskin": "mob/yellowskin"
 },

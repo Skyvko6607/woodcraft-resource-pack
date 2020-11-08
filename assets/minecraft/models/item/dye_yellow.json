@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/banan",
-		"1": "blocks/banan2",
+		"0": "block/banan",
+		"1": "block/banan2",
 		"2": "wood/level_weapon",
-		"particle": "blocks/banan"
+		"particle": "block/banan"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 "__comment": "Designed by Glitcherdotbe with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-    "particle": "blocks/bed_feet_top",
-    "texture2": "blocks/bed_feet_side",
-    "texture3": "blocks/bed_feet_end",
-    "texture4": "blocks/planks_oak",
-    "texture1": "blocks/bed_feet_top"
+    "particle": "block/bed_feet_top",
+    "texture2": "block/bed_feet_side",
+    "texture3": "block/bed_feet_end",
+    "texture4": "block/planks_oak",
+    "texture1": "block/bed_feet_top"
 },
 "elements": [ 
 {

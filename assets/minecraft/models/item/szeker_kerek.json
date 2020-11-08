@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/anvil_base",
-		"1": "blocks/planks_spruce",
-		"2": "blocks/log_spruce",
+		"1": "block/planks_spruce",
+		"2": "block/log_spruce",
 		"particle": "custom/anvil_base"
 	},
 	"elements": [

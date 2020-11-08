@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"voxels_atlas": "blocks/ironsword1_textura"
+		"voxels_atlas": "block/ironsword1_textura"
 	},
 	"elements": [
 		{

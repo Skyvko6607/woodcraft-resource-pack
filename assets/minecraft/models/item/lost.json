@@ -2,8 +2,8 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
         "0": "mob/lost",
-        "1": "blocks/nether_wart_block",
-        "2": "blocks/lava_flow"
+        "1": "block/nether_wart_block",
+        "2": "block/lava_flow"
     },
     "elements": [
         {

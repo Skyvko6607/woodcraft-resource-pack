@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "blocks/log_spruce",
-        "1": "blocks/glass_silver",
-        "2": "blocks/sea_lantern"
+        "0": "block/log_spruce",
+        "1": "block/glass_silver",
+        "2": "block/sea_lantern"
     },
     "elements": [
         {

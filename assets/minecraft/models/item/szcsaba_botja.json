@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by HYTA with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
+		"particle": "block/particle",
+		"texture": "block/texture",
 		"voxels_atlas": "custom/voxels_atlas"
 	},
 	"elements": [ 	 

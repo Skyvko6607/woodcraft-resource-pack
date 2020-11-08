@@ -1,12 +1,12 @@
 {
 "__comment": "Designed by Glitcherdotbe with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-	"particle": "blocks/anvil_base",
-    "anvil_base": "blocks/anvil_base",
-    "stone": "blocks/stone",
-    "cauldron_inner": "blocks/cauldron_inner",
-    "cauldron_side": "blocks/cauldron_side",
-    "water_still": "blocks/water_still"
+	"particle": "block/anvil_base",
+    "anvil_base": "block/anvil_base",
+    "stone": "block/stone",
+    "cauldron_inner": "block/cauldron_inner",
+    "cauldron_side": "block/cauldron_side",
+    "water_still": "block/water_still"
 },
 "elements": [ 
 {

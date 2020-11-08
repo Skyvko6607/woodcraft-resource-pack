@@ -1,9 +1,9 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "0": "blocks/diamond_block",
-        "1": "blocks/diamond_ore",
-        "2": "blocks/emerald_block"
+        "0": "block/diamond_block",
+        "1": "block/diamond_ore",
+        "2": "block/emerald_block"
     },
     "elements": [
         {

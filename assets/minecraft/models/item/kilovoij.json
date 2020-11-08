@@ -1,8 +1,8 @@
 {
 	"_comment": "Made by Agenerick using Notepad++",
     "textures": {
-        "body": "blocks/planks_oak",
-		"element": "blocks/log_oak",
+        "body": "block/planks_oak",
+		"element": "block/log_oak",
 		"string": "items/crossbow_string",
 		"arrow": "items/arrow_side",
 		"arrowback": "items/arrow_back"

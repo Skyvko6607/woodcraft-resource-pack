@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
-	"textures": {"0": "blocks/pumpkin_side", "1": "blocks/pumpkin_face_off", "2": "blocks/anvil_base"},
+	"textures": {"0": "block/pumpkin_side", "1": "block/pumpkin_face_off", "2": "block/anvil_base"},
 	"elements": [
 		{
 			"name": "East",

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/coarse_dirt",
-		"particle": "blocks/coarse_dirt"
+		"0": "block/coarse_dirt",
+		"particle": "block/coarse_dirt"
 	},
 	"elements": [
 		{

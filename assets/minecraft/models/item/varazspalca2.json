@@ -3,10 +3,10 @@
 	"ambientocclusion": true,
 	"textures": {
 		"Staff": "items/emeraldd",
-		"TableSide": "blocks/crafting_table_side",
-		"TableTop": "blocks/crafting_table_top",
-		"TableBottom": "blocks/planks_oak",
-		"particle": "blocks/crafting_table_front"
+		"TableSide": "block/crafting_table_side",
+		"TableTop": "block/crafting_table_top",
+		"TableBottom": "block/planks_oak",
+		"particle": "block/crafting_table_front"
 	},
     	"display": {
         "firstperson": {

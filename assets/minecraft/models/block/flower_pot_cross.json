@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Glitcherdotbe with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-    "particle": "blocks/flower_pot",
-    "texture": "blocks/flower_pot"
+    "particle": "block/flower_pot",
+    "texture": "block/flower_pot"
 },
 "elements": [ 
 {

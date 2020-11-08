@@ -4,7 +4,7 @@
     "texture": "mob/duskbloodskin",
     "vampirecape": "mob/vampirecape",
     "bone": "mob/bone",
-    "anvil_base": "blocks/anvil_base",
+    "anvil_base": "block/anvil_base",
     "brown": "mob/brown"
 },
 "elements": [ 

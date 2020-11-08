@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/anvil_base",
-		"1": "blocks/planks_spruce",
-		"2": "blocks/log_spruce",
-		"7": "blocks/planks_big_oak",
-		"particle": "blocks/anvil_base",
+		"0": "block/anvil_base",
+		"1": "block/planks_spruce",
+		"2": "block/log_spruce",
+		"7": "block/planks_big_oak",
+		"particle": "block/anvil_base",
 		"texture": "mob/duskbloodskin",
 		"vampirecape": "mob/vampirecape",
 		"bone": "mob/bone",
