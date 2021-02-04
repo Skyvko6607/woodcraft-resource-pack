@@ -1,0 +1,12 @@
+{
+ "wc.halloween01": {
+  "sounds": [
+   "halloween/halloween-music"
+  ]
+ },
+ "wc.halloween02": {
+  "sounds": [
+   "halloween/scary-night"
+  ]
+ }
+}

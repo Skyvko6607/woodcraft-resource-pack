@@ -1,0 +1,18 @@
+{
+	"parent":"item/gui/8x8",
+	"textures": {
+		"texture": "item/freewood_market"
+	},
+    "display": {
+        "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, -20.83, 0 ],
+	        "scale": [ 3.66, 3.66, 3 ]
+	    },
+	    "fixed": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, -300, 100 ],
+	        "scale": [5, 5, 5 ]
+	    }
+    }
+}

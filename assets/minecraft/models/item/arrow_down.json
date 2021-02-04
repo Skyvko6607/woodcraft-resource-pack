@@ -1,0 +1,23 @@
+{
+	"parent":"item/gui/8x8",
+	"textures": {
+		"texture": "item/arrow_down"
+	},
+    "display": {
+        "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, -20.83, 0 ],
+	        "scale": [ 3.66, 3.66, 3 ]
+	    },
+	    "fixed": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, -300, 100 ],
+	        "scale": [1, 1, 1 ]
+	    },
+		"head": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0],
+	        "scale": [1, 1, 0 ]
+		}
+    }
+}

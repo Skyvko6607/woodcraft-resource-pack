@@ -1,0 +1,12 @@
+{ 
+   "texture": {
+      "blur": false,
+      "clamp": false
+   },
+   "animation": {
+      "frametime": 3,
+      "frames": [
+		0,1
+      ]
+   }
+}

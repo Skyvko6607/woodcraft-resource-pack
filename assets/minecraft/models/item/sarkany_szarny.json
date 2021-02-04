@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/nightfury",
+		"particle": "custom/nightfury"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [32, 0.05, 16],
+			"faces": {
+				"up": {"uv": [6.438, 1.157, 10.282, 3.438], "texture": "#0"},
+				"down": {"uv": [6.438, 3.438, 10.282, 1.157], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, -90],
+			"translation": [8, 0, -18.25],
+			"scale": [-1, 1, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, -90],
+			"translation": [8, 0, -18.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [21, -73, 0],
+			"translation": [-5.75, 8.5, 3.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [21, -73, 0],
+			"translation": [-5.75, 8.5, 3.5],
+			"scale": [-0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 23, 0]
+		},
+		"gui": {
+			"rotation": [32, 62, 0],
+			"translation": [-4.75, 2.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

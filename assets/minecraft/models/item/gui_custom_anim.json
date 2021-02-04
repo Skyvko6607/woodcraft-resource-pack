@@ -1,0 +1,13 @@
+{
+	"parent":"item/gui/8x8",
+	"textures": {
+		"texture": "item/gui_custom_anim"
+	},
+    "display": {
+        "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, -20.83, -100 ],
+	        "scale": [ 3.66, 3.66, 1 ]
+	    }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/player_model",
+    "textures": {
+        "skin": "items/mrbearlol"
+    }
+}
