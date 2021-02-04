@@ -1,0 +1,90 @@
+{
+  "providers": [
+    {
+      "file": "minecraft:font/ascii.png",
+      "ascent": 7,
+      "type": "bitmap",
+      "chars": [
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        " !\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ",
+        "\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»",
+        "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+        "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+        "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
+        "≡±≥≤⌠⌡÷≈°∙·√ⁿ²■\u0000"
+      ]
+    },
+    {
+      "file": "ui_new/titles/owner_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "鄍"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/admin_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "不"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/dev_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "是"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/helper_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "的"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/premium_plus_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "我"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/premium_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "在"
+      ],
+      "height": 10
+    },
+    {
+      "file": "ui_new/titles/vip_title.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "有"
+      ],
+      "height": 10
+    }
+  ]
+}
